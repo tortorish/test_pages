@@ -26,3 +26,6 @@
 - 
 
 # 项目折腾
+# **pytorch参数量、浮点运算量统计工具**
+>- THOP
+>github地址 https://github.com/Lyken17/pytorch-OpCounter  
